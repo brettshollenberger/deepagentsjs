@@ -41,10 +41,10 @@
   "homepage": "https://github.com/langchain-ai/deepagentsjs#readme",
   "dependencies": {
     "@langchain/anthropic": "^1.0.0",
-    "@langchain/core": "^1.0.0",
+    "@langchain/core": "^1.1.4",
     "@langchain/langgraph": "^1.0.0",
     "fast-glob": "^3.3.3",
-    "langchain": "^1.0.4",
+    "langchain": "^1.1.5",
     "micromatch": "^4.0.8",
     "zod": "^4.1.11"
   },
